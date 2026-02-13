@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change from feature branch
+=======
+Change from main
+>>>>>>> ddf151a (Change message in main)
